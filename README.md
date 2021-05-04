@@ -1,6 +1,8 @@
 # python-search-algorithms
 The very basic search algorithm that is using 'for loop' to find an element. It is more efficient because it stops iterating when finds the element. <br/>
 The requirement is to use it with sorted lists.
+
+
 ```python
 import random
 
@@ -49,6 +51,7 @@ print(f"List contains {random_number} => {insertion_sorrt(my_list, random_number
 
 <br/>
 **Binary Search Algorithm**
+<br/>
 It is also to be used with sorted lists. 
 
 ```python
@@ -107,6 +110,7 @@ print(binary_search(my_list,random_number))
 
 <br/>
 **Binary Search Algorithm - recursive implementation**
+
 
 ```python
 import random
